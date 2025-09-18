@@ -20,3 +20,9 @@
 3.2 refinando o resposivo usando o "theme = responsiveFontSizes(theme)".
 3.3 Trabalhar o contraste do projeto pelo "theme.palette.primary.contrastText".
 3.4 criado e estilizando um button.
+
+# 4 - Quarto dia 18/09/2025 #
+
+4.1 Realizei alguns ajustes finos(texto, foto e botoes).
+4.2 Incluindo um Svg de fundo com animação.
+4.3 Construir um Navbar.
